@@ -1,0 +1,14 @@
+nav {
+    width: 100%;
+    text-align: center;
+    background-color: #eab9e9;
+}
+
+label {
+    padding: 30px;
+    font-size: 2em;
+}
+
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/008/169/417/non_2x/starry-background-blue-night-sky-design-illustration-vector.jpg);
+}
